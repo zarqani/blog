@@ -1,3 +1,3 @@
 export default function RegisterPage() {
-  return <>login</>;
+  return <>register</>;
 }

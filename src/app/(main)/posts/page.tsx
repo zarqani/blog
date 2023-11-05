@@ -1,3 +1,3 @@
-export default function LoginPage() {
-  return <>login</>;
+export default function PostsPage() {
+  return <>Posts</>;
 }
